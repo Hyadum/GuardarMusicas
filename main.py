@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 #coding: utf-8
 # main.py
-# Criado por William Pscheidt
 # 09/06/2017 as 16:38
 
 import sys
